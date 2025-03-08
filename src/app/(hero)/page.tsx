@@ -1,4 +1,4 @@
-import Image from 'next/image'
+
 import React from 'react'
 import homeSrc from '/public/home.png'
 import Hero from '@/components/hero'
